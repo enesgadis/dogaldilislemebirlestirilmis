@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files - Raw data
+data/abcnews-date-text.csv
+
+# Large output files - All CSV and model files
+output/tfidf_*.csv
+odev1/output/tfidf_*.csv
+odev2/output/*.csv
+*.csv
+
+# All pickle files
+*.pkl
+
+# All model files
+*.model
+models/
+odev1/output/models/
+
+# Virtual environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files in general
+*.zip
+*.tar.gz
+*.7z
+
+# Word documents (optional)
+*.docx
+*.doc
+
+# Processed data files
+*_sentences.csv
+lemmatized_sentences.csv
+stemmed_sentences.csv

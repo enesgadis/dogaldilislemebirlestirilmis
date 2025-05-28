@@ -1,0 +1,15 @@
+MINI BENZERLIK ANALIZI RAPORU
+========================================
+
+EN IYI 3 MODEL:
+---------------
+1. lemmatized_model_cbow_window2_dim300: 5.0/5.0
+2. lemmatized_model_cbow_window4_dim300: 4.9/5.0
+3. stemmed_model_cbow_window2_dim300: 4.9/5.0
+
+MODEL KARSILASTIRMALARI:
+--------------------
+TF-IDF Ortalama: 3.80/5.0
+Word2Vec Ortalama: 4.71/5.0
+
+Ortalama Jaccard Benzerligi: 0.218
