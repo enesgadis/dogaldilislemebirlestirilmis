@@ -1,17 +1,17 @@
-# 🔬 ABC News Headlines - Doğal Dil İşleme Projesi
+#  ABC News Headlines - Doğal Dil İşleme Projesi
 
 **Gümüşhane Üniversitesi - Doğal Dil İşleme Dersi**  
-**Öğrenci:** [Adın Soyadın]  
-**Öğrenci No:** [Numaran]
+**Öğrenci:** [Enes Gadiş]  
+**Öğrenci No:** [2107231053]
 
-## 📋 Proje Özeti
+##  Proje Özeti
 
 Bu proje, ABC News Headlines veri seti üzerinde kapsamlı doğal dil işleme analizi gerçekleştiren iki aşamalı bir çalışmadır:
 
 - **ÖDEV 1:** Veri ön işleme, Word2Vec model eğitimi ve TF-IDF vektörizasyonu
 - **ÖDEV 2:** Metin benzerlik analizi ve model performans değerlendirmesi
 
-## 📁 Proje Yapısı
+## Proje Yapısı
 
 ```
 📦 abcnews_nlp_project_full/
@@ -88,7 +88,7 @@ Bu proje, ABC News Headlines veri seti üzerinde kapsamlı doğal dil işleme an
 └── 📄 README.md                      # Bu dosya
 ```
 
-## 🚀 Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 
 ### Gereksinimler
 ```bash
@@ -133,7 +133,7 @@ python comprehensive_evaluation.py    # Kapsamlı değerlendirme
 python detailed_similarity_results.py # Detaylı sonuç analizi
 ```
 
-## 📊 Ödev 1 - Teknik Detaylar
+##  Ödev 1 - Teknik Detaylar
 
 ### Veri Seti
 - **Kaynak:** ABC News Headlines (Kaggle)
@@ -164,7 +164,7 @@ python detailed_similarity_results.py # Detaylı sonuç analizi
 - Ham veri, lemmatized ve stemmed veriler için frekans analizi
 - Görselleştirmeler ve istatistiksel değerlendirmeler
 
-## 📈 Ödev 2 - Benzerlik Analizi
+## Ödev 2 - Benzerlik Analizi
 
 ### Test Sorgusu
 **Seçilen Metin:** "Australia contribute million aid Iraq"
@@ -180,7 +180,7 @@ python detailed_similarity_results.py # Detaylı sonuç analizi
 2. **Ranking Agreement:** Modeller arası sıralama uyumu analizi
 3. **Performance Comparison:** Model türleri arası karşılaştırma
 
-## 🎯 Ana Bulgular
+##  Ana Bulgular
 
 ### Model Performansı
 - **En İyi Modeller:** Lemmatized CBOW modelleri (ortalama 4.80/5.00)
@@ -193,7 +193,7 @@ python detailed_similarity_results.py # Detaylı sonuç analizi
 - Skip-gram modelleri arasında yüksek uyum (0.67-1.0)
 - TF-IDF ve Word2Vec arasında düşük uyum
 
-## 🔧 Teknik Notlar
+## Teknik Notlar
 
 ### Büyük Dosyalar
 Büyük dosyalar `.gitignore` ile hariç tutulmuştur:
@@ -207,19 +207,19 @@ Büyük dosyalar `.gitignore` ile hariç tutulmuştur:
 - **Disk:** ~2GB boş alan
 - **Python:** 3.8+ 
 
-## 📝 Raporlama
+##  Raporlama
 
 Her ödev için detaylı raporlar `output/` klasörlerinde bulunmaktadır:
 - Sayısal sonuçlar (CSV)
 - Görselleştirmeler (PNG)
 - Analiz raporları (TXT)
 
-## 👥 Katkıda Bulunanlar
+##  Katkıda Bulunanlar
 
-**Geliştirici:** [Adın Soyadın]  
+**Geliştirici:** [Enes Gadiş]  
 **Ders:** Doğal Dil İşleme  
 **Kurum:** Gümüşhane Üniversitesi  
-**Yıl:** 2024
+**Yıl:** 2025
 
 ---
 
