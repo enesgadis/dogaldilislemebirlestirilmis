@@ -121,17 +121,16 @@ python zipf_analysis.py      # Zipf yasası analizi
 
 ### ÖDEV 2 - Benzerlik Analizi ve Değerlendirme
 
-```bash
+
 cd odev2/code
 python run_all.py  # Tüm analizleri çalıştır
-```
 
-**Veya ayrı ayrı:**
-```bash
+
+
 python main_analysis.py               # Ana benzerlik analizi
 python comprehensive_evaluation.py    # Kapsamlı değerlendirme
 python detailed_similarity_results.py # Detaylı sonuç analizi
-```
+
 
 ##  Ödev 1 - Teknik Detaylar
 
